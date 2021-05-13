@@ -1,6 +1,4 @@
 version: '3.3'
-volumes:
-  data:
 services:
   db:
     image: mariadb
